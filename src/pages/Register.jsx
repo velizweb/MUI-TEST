@@ -33,9 +33,17 @@ const Register = () => {
         sx={{ mt: 2, display: "grid", gap: 1 }}
       >
         <TextField
+          id="url"
+          label="Url image"
+          type="text"
+          variant="outlined"
+          fullWidth
+          name="image"
+        />
+        <TextField
           id="title"
           label="Publication Title"
-          type="test"
+          type="text"
           variant="outlined"
           fullWidth
           name="title"
@@ -44,7 +52,7 @@ const Register = () => {
           id="description"
           name="content"
           label="Description"
-          type="test"
+          type="text"
           variant="outlined"
           fullWidth
         />
