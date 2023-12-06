@@ -1,8 +1,17 @@
-# React + Vite
+Proyecto creado con react + Material UI + json server
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1-. Descargar el proyecto
 
-Currently, two official plugins are available:
+2.- npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Abrir una terminar y activar el json server con el comando, npm run back
+
+4.- Abrir usa segunda terminal y ejecutar el proyecto react, npm run dev
+
+5.- Intresar con la url http://localhost:5173/
+
+6.- Para login y poder agregar nueva publicacion debe ingresar al link Login
+
+7.- Usuario: admin@gmail.com, password 123456
+
+8.- Solo falta funcionalida de editar, eliminar.
